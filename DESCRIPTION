@@ -20,7 +20,7 @@ Description: The Bootstrap framework lets you add some JavaScript functionality 
   popovers, and an accordion sidebar framework (not described at Bootstrap site).
 License: MIT + file LICENSE
 LazyData: TRUE
-Depends: R (>= 3.3.0)
+Depends: R (>= 3.2.4)
 Imports:
     htmltools,
     magrittr,
